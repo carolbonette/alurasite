@@ -1,4 +1,11 @@
 header {
-    background-color: #2368d6;
+    background-color: #bd5e7a;
     color: rgb(248, 241, 241);
+}
+body{
+    background-color:var(--cor-de-fundo);
+}
+
+h1{
+    background-color: rgb(224, 160, 214);
 }
