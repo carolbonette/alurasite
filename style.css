@@ -3,7 +3,7 @@
 :root{
     --cor-de-fundo:#EBECEE;
 --branco: #FFFFFF;
-color: rgb(248, 241, 241);
+color: hwb(248 95% 2%);
 }
 body{
     background-color:var(--cor-de-fundo);
